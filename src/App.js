@@ -3,6 +3,7 @@ import ItemGastos from "./components/ItemGastos";
 
 function App() {
   const dados = [{ titulo: "Item de Gastos", preco: 50, data: "10/01/22" }];
+
   return (
     <div>
       <h1>Ola mundo!</h1>
